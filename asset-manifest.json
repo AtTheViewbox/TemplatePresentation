@@ -1,16 +1,25 @@
 {
   "files": {
-    "main.css": "/TemplatePresentation/static/css/main.f855e6bc.css",
-    "main.js": "/TemplatePresentation/static/js/main.003c4c77.js",
-    "static/js/787.a45e1935.chunk.js": "/TemplatePresentation/static/js/787.a45e1935.chunk.js",
-    "static/media/logo.svg": "/TemplatePresentation/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/TemplatePresentation/static/css/main.b8f55b9f.css",
+    "main.js": "/TemplatePresentation/static/js/main.65a75b7d.js",
+    "static/media/source-sans-pro-regular.ttf": "/TemplatePresentation/static/media/source-sans-pro-regular.45c54810910de71280ab.ttf",
+    "static/media/source-sans-pro-semibold.ttf": "/TemplatePresentation/static/media/source-sans-pro-semibold.6ebea875df77b49da05b.ttf",
+    "static/media/source-sans-pro-semibolditalic.ttf": "/TemplatePresentation/static/media/source-sans-pro-semibolditalic.522a9ee9b3b2ecbdd367.ttf",
+    "static/media/source-sans-pro-italic.ttf": "/TemplatePresentation/static/media/source-sans-pro-italic.10a5cb40054505a4b3a9.ttf",
+    "static/media/source-sans-pro-semibold.woff": "/TemplatePresentation/static/media/source-sans-pro-semibold.f11ba60ae1c65b37e616.woff",
+    "static/media/source-sans-pro-regular.woff": "/TemplatePresentation/static/media/source-sans-pro-regular.d16535500d9438afb409.woff",
+    "static/media/source-sans-pro-semibolditalic.woff": "/TemplatePresentation/static/media/source-sans-pro-semibolditalic.a43f56accdef4a0b01f0.woff",
+    "static/media/source-sans-pro-italic.woff": "/TemplatePresentation/static/media/source-sans-pro-italic.983d97ca59e8e24e94c6.woff",
+    "static/media/source-sans-pro-semibold.eot": "/TemplatePresentation/static/media/source-sans-pro-semibold.83db537e62224a779338.eot",
+    "static/media/source-sans-pro-regular.eot": "/TemplatePresentation/static/media/source-sans-pro-regular.36443d248c8a75fde2a6.eot",
+    "static/media/source-sans-pro-italic.eot": "/TemplatePresentation/static/media/source-sans-pro-italic.97e79d3e28a440c77195.eot",
+    "static/media/source-sans-pro-semibolditalic.eot": "/TemplatePresentation/static/media/source-sans-pro-semibolditalic.fb03c6601ab6f48952c4.eot",
     "index.html": "/TemplatePresentation/index.html",
-    "main.f855e6bc.css.map": "/TemplatePresentation/static/css/main.f855e6bc.css.map",
-    "main.003c4c77.js.map": "/TemplatePresentation/static/js/main.003c4c77.js.map",
-    "787.a45e1935.chunk.js.map": "/TemplatePresentation/static/js/787.a45e1935.chunk.js.map"
+    "main.b8f55b9f.css.map": "/TemplatePresentation/static/css/main.b8f55b9f.css.map",
+    "main.65a75b7d.js.map": "/TemplatePresentation/static/js/main.65a75b7d.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.003c4c77.js"
+    "static/css/main.b8f55b9f.css",
+    "static/js/main.65a75b7d.js"
   ]
 }
