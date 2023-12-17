@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/TemplatePresentation/static/css/main.cc071bf6.css",
-    "main.js": "/TemplatePresentation/static/js/main.55ccb5b2.js",
+    "main.css": "/TemplatePresentation/static/css/main.82c9e4f5.css",
+    "main.js": "/TemplatePresentation/static/js/main.a9e2c7bf.js",
     "static/media/source-sans-pro-regular.ttf": "/TemplatePresentation/static/media/source-sans-pro-regular.45c54810910de71280ab.ttf",
     "static/media/source-sans-pro-semibold.ttf": "/TemplatePresentation/static/media/source-sans-pro-semibold.6ebea875df77b49da05b.ttf",
     "static/media/source-sans-pro-semibolditalic.ttf": "/TemplatePresentation/static/media/source-sans-pro-semibolditalic.522a9ee9b3b2ecbdd367.ttf",
@@ -15,11 +15,11 @@
     "static/media/source-sans-pro-italic.eot": "/TemplatePresentation/static/media/source-sans-pro-italic.97e79d3e28a440c77195.eot",
     "static/media/source-sans-pro-semibolditalic.eot": "/TemplatePresentation/static/media/source-sans-pro-semibolditalic.fb03c6601ab6f48952c4.eot",
     "index.html": "/TemplatePresentation/index.html",
-    "main.cc071bf6.css.map": "/TemplatePresentation/static/css/main.cc071bf6.css.map",
-    "main.55ccb5b2.js.map": "/TemplatePresentation/static/js/main.55ccb5b2.js.map"
+    "main.82c9e4f5.css.map": "/TemplatePresentation/static/css/main.82c9e4f5.css.map",
+    "main.a9e2c7bf.js.map": "/TemplatePresentation/static/js/main.a9e2c7bf.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc071bf6.css",
-    "static/js/main.55ccb5b2.js"
+    "static/css/main.82c9e4f5.css",
+    "static/js/main.a9e2c7bf.js"
   ]
 }
